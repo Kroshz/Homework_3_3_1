@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defHeight">35dp</dimen>
+    <dimen name="defTextSize">24sp</dimen>
+    <dimen name="dim_width">100dp</dimen>
+    <dimen name="dim_fam">33sp</dimen>
+</resources>
